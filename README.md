@@ -6,7 +6,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=#)](#)
 
 ### Um pouco de mim
-I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
+Sou um eterno aprendiz, acredito que todos os dias podemos aprender algo novo. Sou facinado por lógica apesar de nunca ter feito um curso na área.
 
 - [Calculadora](https://github.com/jorgekania/calc) ☒ - Projeto Pessoal de uma calculadora em JavaScritp puro
 - [Slider Fotos](https://github.com/jorgekania/slider-js) ✳ - Projeto Pessoal de um Slider de Fotos em JavaScritp puro
