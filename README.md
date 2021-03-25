@@ -7,7 +7,7 @@
 
 
 ### Um pouco de mim
-Sou um amante da natureza,, um incansável buscador do conhecimento.
+Sou um amante da natureza, um incansável buscador do conhecimento.
 
 Entre minhas atividades preferidas estão a leitura, mais também gosto muito de esportes e filmes que me façam pensar.
 
@@ -23,9 +23,9 @@ Atualmente sou empreendedor autônomo, buscando me estabelecer nesta área, mais
 
 ### Últimos códigos desenvolvidos
 
-- [JK Trader Pró - Site/Blog](https://www.jktraderpro.com) 💻 - Site voltado para mercado de investimentos usando CMS Wordpress
-- [SGO Brasil](https://www.sgobrasil.com) 💻 - Sistema de gerenciamento de Operações Day Trade. Em PHP, Mysql, Jquery, JavaScritp, HTML5, CSS3
-- [Calculadora](https://github.com/jorgekania/calc) ☒ - Projeto Pessoal de uma calculadora em JavaScritp puro
-- [Slider Fotos](https://github.com/jorgekania/slider-js) ✳ - Projeto Pessoal de um Slider de Fotos em JavaScritp puro
-- [Jogo da Velha](https://github.com/jorgekania/jogo-da-velha) ✘ - Projeto Pessoal do tradicional Jogo da Velha em JavaScritp puro
-- [Box Shadow Generate](https://github.com/jorgekania/box-shadow) ✘ - Projeto Pessoal para um sistema de geração de Box Shadow em PHP, Jquery/HTML5, CSS3
+* [JK Trader Pró - Site/Blog](https://www.jktraderpro.com) 💻 - Site voltado para mercado de investimentos usando CMS Wordpress
+* [SGO Brasil](https://www.sgobrasil.com) 💻 - Sistema de gerenciamento de Operações Day Trade. Em PHP, Mysql, Jquery, JavaScritp, HTML5, CSS3
+* [Calculadora](https://github.com/jorgekania/calc) ☒ - Projeto Pessoal de uma calculadora em JavaScritp puro
+* [Slider Fotos](https://github.com/jorgekania/slider-js) ✳ - Projeto Pessoal de um Slider de Fotos em JavaScritp puro
+* [Jogo da Velha](https://github.com/jorgekania/jogo-da-velha) ✘ - Projeto Pessoal do tradicional Jogo da Velha em JavaScritp puro
+* [Box Shadow Generate](https://github.com/jorgekania/box-shadow) ✘ - Projeto Pessoal para um sistema de geração de Box Shadow em PHP, Jquery/HTML5, CSS3
