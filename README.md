@@ -12,5 +12,5 @@ Sou um eterno aprendiz, acredito que todos os dias podemos aprender algo novo. S
 - [Slider Fotos](https://github.com/jorgekania/slider-js) ✳ - Projeto Pessoal de um Slider de Fotos em JavaScritp puro
 - [Jogo da Velha](https://github.com/jorgekania/jogo-da-velha) ✘ - Projeto Pessoal do tradicional Jogo da Velha em JavaScritp puro
 - [Box Shadow Generate](https://github.com/jorgekania/box-shadow) ✘ - Projeto Pessoal para um sistema de geração de Box Shadow em PHP, Jquery/HTML5, CSS3
-- [Site/Blog](https://www.jktraderpro.com) 💻 - Site voltado para mercado de investimentos usando CMS Wordpress
-- [Site](https://www.sgobrasil.com) 💻 - Site para quem trabalha no mercado financeiro e precisa gerenciar suas operaççoes. Em PHP, Mysql, Jquery, JavaScritp, HTML5, CSS3
+- [JK Trader Pró - Site/Blog](https://www.jktraderpro.com) 💻 - Site voltado para mercado de investimentos usando CMS Wordpress
+- [SGO Brasil](https://www.sgobrasil.com) 💻 - Site para quem trabalha no mercado financeiro e precisa gerenciar suas operaççoes. Em PHP, Mysql, Jquery, JavaScritp, HTML5, CSS3
