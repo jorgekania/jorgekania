@@ -28,4 +28,5 @@ Atualmente sou empreendedor autônomo, buscando me estabelecer nesta área, mais
 * [Calculadora](https://github.com/jorgekania/calc) ☒ - Projeto Pessoal de uma calculadora em JavaScritp puro
 * [Slider Fotos](https://github.com/jorgekania/slider-js) ✳ - Projeto Pessoal de um Slider de Fotos em JavaScritp puro
 * [Jogo da Velha](https://github.com/jorgekania/jogo-da-velha) ✘ - Projeto Pessoal do tradicional Jogo da Velha em JavaScritp puro
+* [Memory Match] (https://github.com/jorgekania/memory-match) * - Projeto pessoal do tradicional jogo da memória em Javascript/CSS/Html5
 * [Box Shadow Generate](https://github.com/jorgekania/box-shadow) ✘ - Projeto Pessoal para um sistema de geração de Box Shadow em PHP, Jquery/HTML5, CSS3
