@@ -23,6 +23,7 @@ Atualmente sou empreendedor autônomo, buscando me estabelecer nesta área, mais
 
 ### Últimos códigos desenvolvidos
 
+* [Meu Portifólio](https://www.jorgefabiano.com) 💻 - SAqui você sabe um pouco mais sobre mim.
 * [JK Trader Pró - Site/Blog](https://www.jktraderpro.com) 💻 - Site voltado para mercado de investimentos usando CMS Wordpress
 * [SGO Brasil](https://www.sgobrasil.com) 💻 - Sistema de gerenciamento de Operações Day Trade. Em PHP, Mysql, Jquery, JavaScritp, HTML5, CSS3
 * [Calculadora](https://github.com/jorgekania/calc) ☒ - Projeto Pessoal de uma calculadora em JavaScritp puro
