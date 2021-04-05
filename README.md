@@ -7,23 +7,19 @@
 
 
 ### Um pouco de mim
-Sou um amante da natureza, um incansável buscador do conhecimento.
+Tenho 46 anos, casado a 25 anos, moro em Curitiba/PR, sou um amante da natureza, um incansável buscador do conhecimento.
 
-Entre minhas atividades preferidas estão a leitura, mais também gosto muito de esportes e filmes que me façam pensar.
-
-Na vida profissional, já atuei desde cargos iniciais como auxiliar de produção chegando a gerente de equipes, tendo como área que mais me identifico, as que envolvem lógica.
-
-Sou fascinado por lógica apesar de nunca ter feito um curso na área.
+Trabalhando a mais de 20 anos na área de tecnologia, tanto na programação como com hardware (manutenção de computadores), redes estruturadas. Sou simplesmente apaixonado por lógica apesar de nunca ter feito um curso na área. Já atuei desde cargos iniciais como auxiliar de produção chegando a gerente de equipes.
 
 Autodidata na programação. Acredito no poder do trabalho colaborativo, Software livre e código aberto. Tudo torna-se mais simples quando nos unimos para trabalhar pelo mesmo objetivo.
 
-Atualmente sou empreendedor autônomo, buscando me estabelecer nesta área, mais não descarto poder voltar a atuar dentro de uma empresa.
+Entre meus hobs preferidos estão a leitura, mais também gosto muito de esportes e filmes que me façam pensar.
 
 
 
 ### Últimos códigos desenvolvidos
 
-* [Meu Portifólio](https://www.jorgefabiano.com) 💻 - SAqui você sabe um pouco mais sobre mim.
+* [Meu Portifólio](https://www.jorgefabiano.com) 💻 - Aqui você sabe um pouco mais sobre mim.
 * [JK Trader Pró - Site/Blog](https://www.jktraderpro.com) 💻 - Site voltado para mercado de investimentos usando CMS Wordpress
 * [SGO Brasil](https://www.sgobrasil.com) 💻 - Sistema de gerenciamento de Operações Day Trade. Em PHP, Mysql, Jquery, JavaScritp, HTML5, CSS3
 * [Calculadora](https://github.com/jorgekania/calc) ☒ - Projeto Pessoal de uma calculadora em JavaScritp puro
