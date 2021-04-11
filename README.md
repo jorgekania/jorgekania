@@ -27,3 +27,4 @@ Entre meus hobs preferidos estão a leitura, mais também gosto muito de esporte
 * [Jogo da Velha](https://github.com/jorgekania/jogo-da-velha) ✘ - Projeto Pessoal do tradicional Jogo da Velha em JavaScritp puro
 * [Memory Match](https://github.com/jorgekania/memory-match) ☑ - Projeto pessoal do tradicional jogo da memória em Javascript/CSS/Html5
 * [Box Shadow Generate](https://github.com/jorgekania/box-shadow) ✘ - Projeto Pessoal para um sistema de geração de Box Shadow em PHP, Jquery/HTML5, CSS3
+* [Music Player](https://github.com/jorgekania/music-player) 💻 - Um Player de música em HTML5/CSS e Javascript
