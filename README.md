@@ -20,9 +20,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jorgekania)](https://github.com/jorgekania)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgekania/)](https://www.linkedin.com/in/jorgekania/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=#)](#)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=#)](#)
-
 
 ### Um pouco de mim
 Tenho 46 anos, casado a 25 anos, moro em Curitiba/PR, sou um amante da natureza, um incansável buscador do conhecimento.
