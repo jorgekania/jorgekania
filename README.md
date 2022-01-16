@@ -12,8 +12,8 @@
 #
 
 <div style="display: inline_block" align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jorgekania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekania&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jorgekania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekania&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 # Olá, sou Jorge Fabiano,
@@ -32,17 +32,3 @@ Trabalhando a mais de 30 anos na área de tecnologia, tanto na programação com
 Autodidata na programação. Acredito no poder do trabalho colaborativo, Software livre e código aberto. Tudo torna-se mais simples quando nos unimos para trabalhar pelo mesmo objetivo.
 
 Entre meus hobs preferidos estão a leitura, mais também gosto muito de esportes e filmes que me façam pensar.
-
-
-
-### Últimos códigos desenvolvidos
-
-* [Meu Portifólio](https://www.jorgefabiano.com) 💻 - Aqui você sabe um pouco mais sobre mim.
-* [JK Trader Pró - Site/Blog](https://www.jktraderpro.com) 💻 - Site voltado para mercado de investimentos usando CMS Wordpress
-* [SGO Brasil](https://www.sgobrasil.com) 💻 - Sistema de gerenciamento de Operações Day Trade. Em PHP, Mysql, Jquery, JavaScritp, HTML5, CSS3
-* [Calculadora](https://github.com/jorgekania/calc) ☒ - Projeto Pessoal de uma calculadora em JavaScritp puro
-* [Slider Fotos](https://github.com/jorgekania/slider-js) ✳ - Projeto Pessoal de um Slider de Fotos em JavaScritp puro
-* [Jogo da Velha](https://github.com/jorgekania/jogo-da-velha) ✘ - Projeto Pessoal do tradicional Jogo da Velha em JavaScritp puro
-* [Memory Match](https://github.com/jorgekania/memory-match) ☑ - Projeto pessoal do tradicional jogo da memória em Javascript/CSS/Html5
-* [Box Shadow Generate](https://github.com/jorgekania/box-shadow) ✘ - Projeto Pessoal para um sistema de geração de Box Shadow em PHP, Jquery/HTML5, CSS3
-* [Music Player](https://github.com/jorgekania/music-player) 💻 - Um Player de música em HTML5/CSS e Javascript
