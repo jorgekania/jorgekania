@@ -19,7 +19,7 @@
 # Olá, sou Jorge Fabiano,
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jorgekania)](https://github.com/jorgekania)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgekania/)](https://www.linkedin.com/in/jorgekania/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 ### Um pouco de mim
 Olá, sou Jorge, casado, moro em Curitiba/PR, sou um amante da natureza, um incansável buscador do conhecimento.
