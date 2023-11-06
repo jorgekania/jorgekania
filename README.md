@@ -19,8 +19,12 @@
 # Olá, sou Jorge Fabiano, [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jorgekania)](https://github.com/jorgekania) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 
-Sou um desenvolvedor Full Stack Sênior com mais de 20 anos de experiência na área. 
+Sou um profissional de tecnologia com mais de 30 anos de envolvimento contínuo na área. Minha jornada começou em 1991, quando escrevi minha primeira linha de código, e desde então, tenho seguido um caminho diversificado que me permitiu adquirir uma ampla gama de experiências em tecnologia.
 
-Liderei equipes de desenvolvimento, supervisionando projetos de grande escala, demonstrando habilidades sólidas em comunicação, resolução de problemas e tomada de decisões. 
+Durante minha carreira, trabalhei de diversas formas: como consultor independente, empresário e colaborador de empresas. Essa variedade de papéis me proporcionou a oportunidade de desenvolver habilidades em várias áreas da tecnologia, embora eu não tenha me especializado profundamente em uma única delas. Este percurso diversificado tem seus pontos fortes e desafios. Por um lado, tenho a capacidade de atuar em várias frentes, adaptando-me às necessidades em constante evolução da tecnologia. Por outro lado, não me considero um especialista em um campo específico.
 
-Tenho um compromisso com o aprendizado contínuo e mantenho-me atualizado com as últimas tecnologias, o que me permite adaptar-me rapidamente a ambientes em evolução.
+Minha abordagem à tecnologia é impulsionada pela paixão pela aprendizagem contínua. Estou constantemente atualizado com as últimas tecnologias e tendências, o que me permite me adaptar rapidamente a ambientes em evolução. Acredito que o conhecimento é algo a ser compartilhado, e tenho uma forte ética de trabalho que se reflete na minha dedicação à área.
+
+Além da minha carreira em tecnologia, também valorizo o equilíbrio entre a vida pessoal e profissional. Nas minhas horas vagas, gosto de meditar, assistir a filmes e até mesmo tirar um tempo para jogar vídeo games.
+
+No momento, considero-me um desenvolvedor sênior, embora seja desafiador classificar meu nível de especialização devido à minha ampla gama de experiências. Estou pronto para enfrentar novos desafios e continuar contribuindo para o campo da tecnologia com minha experiência diversificada e minha paixão pelo aprendizado constante.
