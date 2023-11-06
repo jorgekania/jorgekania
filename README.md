@@ -16,6 +16,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekania&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
+#
+
 <div dir="auto"> 
   <a href="https://www.youtube.com/@WordInCode" rel="nofollow"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="mailto:jorgefkania@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -24,7 +26,7 @@
 
 #
 
-# Olá, sou Jorge Fabiano, [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jorgekania)](https://github.com/jorgekania) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+# Olá, sou Jorge Fabiano,
 
 
 Sou um profissional de tecnologia com mais de 30 anos de envolvimento contínuo na área. Minha jornada começou em 1991, quando escrevi minha primeira linha de código, e desde então, tenho seguido um caminho diversificado que me permitiu adquirir uma ampla gama de experiências em tecnologia.
