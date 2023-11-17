@@ -29,7 +29,7 @@
 # Olá, sou Jorge Fabiano,
 
 
-Sou um profissional de tecnologia com mais de 30 anos de envolvimento contínuo na área. Minha jornada começou em 1991, quando escrevi minha primeira linha de código, e desde então, tenho seguido um caminho diversificado que me permitiu adquirir uma ampla gama de experiências em tecnologia.
+Minha jornada começou em 1991, quando escrevi minha primeira linha de código, e desde então, tenho seguido um caminho diversificado que me permitiu adquirir uma ampla gama de experiências em tecnologia.
 
 Durante minha carreira, trabalhei de diversas formas: como consultor independente, empresário e colaborador de empresas. Essa variedade de papéis me proporcionou a oportunidade de desenvolver habilidades em várias áreas da tecnologia, embora eu não tenha me especializado profundamente em uma única delas. Este percurso diversificado tem seus pontos fortes e desafios. Por um lado, tenho a capacidade de atuar em várias frentes, adaptando-me às necessidades em constante evolução da tecnologia. Por outro lado, não me considero um especialista em um campo específico.
 
